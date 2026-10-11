@@ -1,12 +1,15 @@
+# Node
 node_modules/
 client/dist/
+
+# Python
 __pycache__/
 *.pyc
 .venv/
 venv/
 .pytest_cache/
+
+# Secrets and OS
 .env
-.env.*
-!.env.example
 *.log
 .DS_Store
